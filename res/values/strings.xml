@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UNCalenderApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="txtStoreEvenets">Store international days in my calendar</string>
+    <string name="txtSettingsNote">This is an official app of the United Nations. Copyright (C) United Nations. All right reserved. Learn more about the work of the United Nations: http://www.un.org/digital/</string>
+
+    <string-array name="month_arrays">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+ 
+
+</resources>
